@@ -1,0 +1,16 @@
+[
+  {
+    "_collection": {
+      "collectionName": "AdminUser",
+      "filePath": "D:\\Office\\Dashboard\\website_dashbord\\winsoft-api\\data\\adminuser.json"
+    },
+    "username": "admin",
+    "email": "admin@winsoft.com",
+    "passwordHash": "$2a$12$I5V/LvAy4bOskGNdjy02../V2nUjTK5qhbuxTlXmrem9XUZjdUfDm",
+    "role": "superadmin",
+    "active": true,
+    "_id": "6ua80fcbxms9zycb6",
+    "createdAt": "2026-08-01T06:34:59.923Z",
+    "updatedAt": "2026-08-01T06:34:59.923Z"
+  }
+]

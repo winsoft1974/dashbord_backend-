@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "xmyij5mgnms9zycbh",
+    "name": "Priya Patil",
+    "email": "priya@example.com",
+    "phone": "+91 8888888888",
+    "company": "Patil Jewellery House",
+    "industry": "gold",
+    "currentChallenges": "Looking for a system to track gold inventory across 3 retail outlets in Sangli.",
+    "preferredDate": "2026-08-10",
+    "preferredTime": "11:00",
+    "status": "scheduled",
+    "notes": "Assigned to sales manager Suresh Patil.",
+    "createdAt": "2026-08-01T06:34:59.933Z",
+    "updatedAt": "2026-08-01T06:34:59.933Z"
+  }
+]

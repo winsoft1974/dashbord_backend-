@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "ryuowybp2ms9zyccc",
+    "key": "happy_clients",
+    "number": 1200,
+    "suffix": "+",
+    "labelEn": "Happy Clients",
+    "labelMr": "आनंदी ग्राहक",
+    "emoji": "😊",
+    "sortOrder": 1,
+    "createdAt": "2026-08-01T06:34:59.964Z",
+    "updatedAt": "2026-08-01T06:34:59.964Z"
+  },
+  {
+    "_id": "d2mv56ly1ms9zyccc",
+    "key": "years_experience",
+    "number": 18,
+    "suffix": "+",
+    "labelEn": "Years Experience",
+    "labelMr": "वर्षांचा अनुभव",
+    "emoji": "⏳",
+    "sortOrder": 2,
+    "createdAt": "2026-08-01T06:34:59.964Z",
+    "updatedAt": "2026-08-01T06:34:59.964Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "digg9cynrms9zycbd",
+    "name": "Abhishek Chougale",
+    "email": "abhishekchougale038@gmail.com",
+    "phone": "+91 9423039902",
+    "company": "Chougale Technologies",
+    "inquiryType": "dealer",
+    "message": "Interested in registering as an authorized dealer for Kolhapur region.",
+    "source": "dealer_inquiry",
+    "status": "new",
+    "language": "en",
+    "createdAt": "2026-08-01T06:34:59.929Z",
+    "updatedAt": "2026-08-01T06:34:59.929Z"
+  },
+  {
+    "_id": "qnak0fg0hms9zycbd",
+    "name": "Amit Deshmukh",
+    "email": "amit@example.com",
+    "phone": "+91 7777777777",
+    "company": "Krishna Sugar Mills",
+    "inquiryType": "sugar",
+    "message": "Need a quote for ERP integration for sugar factory crushing cycles.",
+    "source": "contact_page",
+    "status": "called",
+    "language": "mr",
+    "createdAt": "2026-08-01T06:34:59.929Z",
+    "updatedAt": "2026-08-01T06:34:59.929Z"
+  }
+]

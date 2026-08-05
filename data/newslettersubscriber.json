@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "hw7gslspsms9zycbo",
+    "email": "news-reader@example.com",
+    "language": "en",
+    "status": "active",
+    "source": "blog_page",
+    "createdAt": "2026-08-01T06:34:59.940Z",
+    "updatedAt": "2026-08-01T06:34:59.940Z"
+  }
+]

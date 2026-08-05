@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "9hwb4hpd4ms9zycbv",
+    "name": "Babasaheb Mane",
+    "role": "Chairman",
+    "company": "Vardhaman Dudh Sangh",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+    "rating": 5,
+    "review": "विन्सॉफ्टच्या डेअरी सॉफ्टवेअरमुळे आमच्या दूध संकलन केंद्रात मोठी सुधारणा झाली आहे. शेतकऱ्यांचा विश्वास वाढला आहे.",
+    "reviewEn": "Winsoft’s dairy software has vastly improved our milk collection center. Farmer trust has gone up significantly.",
+    "industry": "dairy",
+    "featured": true,
+    "sortOrder": 1,
+    "createdAt": "2026-08-01T06:34:59.947Z",
+    "updatedAt": "2026-08-01T06:34:59.947Z"
+  }
+]

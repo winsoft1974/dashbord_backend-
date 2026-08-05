@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "ehp20p8lams9zycbl",
+    "name": "Suresh Patil",
+    "businessName": "Patil Agro & Dairy Services",
+    "phone": "+91 9876543210",
+    "email": "suresh.patil@example.com",
+    "address": "Main Road, Sangli",
+    "status": "approved",
+    "notes": "Approved partner. Target set to 5 software units.",
+    "createdAt": "2026-08-01T06:34:59.937Z",
+    "updatedAt": "2026-08-01T06:34:59.937Z"
+  },
+  {
+    "_id": "q0g22fygems9zycbl",
+    "name": "Mahesh Deshmukh",
+    "businessName": "Deshmukh Software Agency",
+    "phone": "+91 8888888888",
+    "email": "mahesh@example.com",
+    "address": "Shivaji Nagar, Pune",
+    "status": "under_review",
+    "createdAt": "2026-08-01T06:34:59.937Z",
+    "updatedAt": "2026-08-01T06:34:59.937Z"
+  }
+]

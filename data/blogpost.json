@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "xeup0syrgms9zycbu",
+    "slug": "dairy-cooperative-digitization-amcs",
+    "title": "Digitizing Dairy Cooperatives: The Role of AMCS Software",
+    "titleMr": "दुग्ध सहकारी संस्थांचे संगणकीकरण: AMCS सॉफ्टवेअरचे महत्त्व",
+    "excerpt": "How Automated Milk Collection Systems (AMCS) are bringing transparency and speed to local rural dairies.",
+    "excerptMr": "ऑटोमेटेड मिल्क कलेक्शन सिस्टीम्स ग्रामीण भागात दूध संकलनात कशी पारदर्शकता आणि वेग आणत आहेत.",
+    "content": "<p>Milk collection has traditionally been a manual process subject to fat errors. Implementing AMCS software integrates milk testers directly with digital weighing scales...</p>",
+    "author": "Technical Team",
+    "category": "dairy",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1527018601619-a508a2be00cd?w=600",
+    "featured": true,
+    "published": true,
+    "publishedAt": "2026-08-01T06:34:59.945Z",
+    "tags": [
+      "dairy",
+      "technology",
+      "rural"
+    ],
+    "createdAt": "2026-08-01T06:34:59.946Z",
+    "updatedAt": "2026-08-01T06:34:59.946Z"
+  }
+]

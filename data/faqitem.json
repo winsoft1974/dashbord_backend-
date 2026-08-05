@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "fx3nhqxsgms9zycbx",
+    "category": "Dairy",
+    "categoryMr": "डेअरी सॉफ्टवेअर",
+    "question": "Does the AMCS software support fat testing machine integrations?",
+    "questionEn": "Does the AMCS software support fat testing machine integrations?",
+    "answer": "होय, विन्सॉफ्ट डेअरी सॉफ्टवेअर सर्व प्रमुख फॅट टेस्टिंग आणि वजन मोजण्याच्या मशिन्सशी थेट जोडले जाऊ शकते.",
+    "answerEn": "Yes, Winsoft Dairy Software supports direct integration with all major fat testing and weighing scale machines.",
+    "sortOrder": 1,
+    "published": true,
+    "createdAt": "2026-08-01T06:34:59.949Z",
+    "updatedAt": "2026-08-01T06:34:59.949Z"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "gotfkbgmbms9zycbn",
+    "name": "Rohan Shinde",
+    "email": "rohan.shinde@example.com",
+    "phone": "9876543222",
+    "position": "React Frontend Developer",
+    "resumeUrl": "http://localhost:5000/uploads/sample-resume.pdf",
+    "resumePublicId": "sample-resume.pdf",
+    "resumeOriginalName": "Rohan_Resume_2026.pdf",
+    "message": "I have 3 years of experience in React and Next.js. I would love to join your Kolhapur office.",
+    "status": "pending",
+    "createdAt": "2026-08-01T06:34:59.939Z",
+    "updatedAt": "2026-08-01T06:34:59.939Z"
+  }
+]
