@@ -8,11 +8,11 @@ const router = Router();
 
 // Generate JWT Helper
 const generateToken = (id: string, username: string, email: string, role: string) => {
-  return jwt.sign(
-    { id, username, email, role },
-    process.env.JWT_SECRET || 'winsoft_super_secret_dev_key_2026',
-    { expiresIn: process.env.JWT_EXPIRES_IN || '7d' }
-  );
+  const secret: jwt.Secret = process.env.JWT_SECRET || 'winsoft_super_secret_dev_key_2026';
+  const options: jwt.SignOptions = {
+    expiresIn: (process.env.JWT_EXPIRES_IN || '7d') as any
+  };
+  return jwt.sign({ id, username, email, role }, secret, options);
 };
 
 // @route   POST /api/auth/login

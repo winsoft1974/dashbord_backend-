@@ -94,7 +94,7 @@ router.get('/leads-by-month', protect, async (req: AuthenticatedRequest, res: Re
       dateCursor.setMonth(dateCursor.getMonth() + 1);
     }
 
-    contactGroup.forEach(item => {
+    contactGroup.forEach((item: any) => {
       const key = `${monthNames[item._id.month - 1]} ${item._id.year.toString().substring(2)}`;
       if (monthlyData[key]) {
         monthlyData[key].contacts = item.count;
@@ -102,7 +102,7 @@ router.get('/leads-by-month', protect, async (req: AuthenticatedRequest, res: Re
       }
     });
 
-    demoGroup.forEach(item => {
+    demoGroup.forEach((item: any) => {
       const key = `${monthNames[item._id.month - 1]} ${item._id.year.toString().substring(2)}`;
       if (monthlyData[key]) {
         monthlyData[key].demos = item.count;
@@ -138,7 +138,7 @@ router.get('/leads-by-type', protect, async (req: AuthenticatedRequest, res: Res
       }
     ]);
 
-    const formatted = contactBreakdown.map(item => ({
+    const formatted = contactBreakdown.map((item: any) => ({
       type: item._id,
       count: item.count
     }));
